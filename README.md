@@ -128,6 +128,20 @@ Translates analytical findings into actionable business recommendations and expe
 - DAX
 - Microsoft Excel
 
+## Dashboard Preview
+
+### Executive Summary
+
+![Executive Summary](https://github.com/priscilaportifolio/customer-contact-reduction-cx-optimisation/blob/main/images/Executive%20Summary.png?raw=true)
+
+### Operational Performance
+
+![Operational Performance](https://github.com/priscilaportifolio/customer-contact-reduction-cx-optimisation/blob/main/images/Operational%20Performance.png?raw=true)
+
+### Recommendations & Business Actions
+
+![Recommendations & Business Actions](https://github.com/priscilaportifolio/customer-contact-reduction-cx-optimisation/blob/main/images/Recommendations%20%26%20Business%20Actions.png?raw=true)
+
 ---
 
 ## Project Files
