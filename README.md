@@ -1,6 +1,6 @@
 # Customer Contact Reduction & CX Optimisation
 
-> Power BI analytics project focused on customer experience, contact reduction and operational performance optimisation through data-driven insights and business recommendations.
+> Power BI analytics project focused on customer experience, contact reduction and operational performance optimisation through data-driven insights and business recommendations. The project is based on a publicly available dataset obtained from Kaggle and enriched with additional business attributes to simulate a realistic customer support environment.
 
 ## Business Challenge
 
@@ -63,7 +63,7 @@ Customer support teams often face high contact volumes, repeat enquiries and inc
 ## Project Files
 
 * Dashboard Report (PDF)
-* Analysis Dataset (Excel)
+* Analysis Dataset (Excel) 
 * Dashboard Screenshots
 
 ## Author
