@@ -1,1 +1,1 @@
-This folder contains the dataset used for the analysis.
+This folder contains the dataset used for the analysis. The project is based on a publicly available dataset obtained from Kaggle and enriched with additional business attributes to simulate a realistic customer support environment.
